@@ -14,15 +14,15 @@ console.log(userIsMarried);
 var userHobbies = ["Reading", "Writing", "Coding"];
 console.log(userHobbies);
 var userAddress = {
-    city: "Dhaka",
-    country: "Bangladesh",
+  city: "Dhaka",
+  country: "Bangladesh",
 };
 console.log(userAddress);
 var userDetails = {
-    name: "Sahabul Islam SIfat",
-    age: 22,
-    isMarried: false,
-    hobbies: ["Reading", "Writing", "Coding"],
-    address: { city: "Dhaka", country: "Bangladesh" },
+  name: "Sahabul Islam SIfat",
+  age: 22,
+  isMarried: false,
+  hobbies: ["Reading", "Writing", "Coding"],
+  address: { city: "Dhaka", country: "Bangladesh" },
 };
 console.log(userDetails);
