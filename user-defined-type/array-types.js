@@ -1,0 +1,18 @@
+var userName;
+userName = ["John", "Doe", "Smith"];
+var userAge;
+userAge = [25, 30, 35];
+// console.log(userName);
+// console.log(userAge);
+var multipleTypes;
+multipleTypes = ["John", 25, "Doe", 30, "Smith", 35];
+userName.sort();
+console.log(userName);
+userName.push("Jane");
+console.log(userName);
+userName.pop();
+console.log(userName);
+userName.unshift("Alice");
+console.log(userName);
+userName.shift();
+console.log(userName);
